@@ -2,11 +2,11 @@
 
 0. ####  개요
 
-   1. #####  루비는 순수 객체 지향 언어이다.
+    1. #####  루비는 순수 객체 지향 언어이다.
 
-   2. ##### 모든것이 객체이다.
+    2. ##### 모든것이 객체이다.
 
-   3. ##### Ruby  on Rails 덕분에 유명해짐.
+    3. ##### Ruby  on Rails 덕분에 유명해짐.
 
 1. #### puts VS print
 
@@ -66,10 +66,13 @@ p a #->"hello"
 
    
 
-6.  case
+6. case
+
+7. 
 
    ```ruby
-   case name
+   
+case name
        when "chang2" then puts "hi chang2"
            when "tak" then puts "hi tak"
            else put "hi"
